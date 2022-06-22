@@ -7,6 +7,7 @@ import json
 
 class Client:
     def __init__(self, post, message):
+
         self.driver = webdriver.Firefox(service=Service("D:/Sistema/objetos 3D/programação/pythonBot/src/drivers/geckodriver.exe"), options=webdriver.FirefoxOptions())
         self.loggedNotAccounts = 0
         self.username = 'username'
