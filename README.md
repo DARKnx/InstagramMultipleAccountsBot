@@ -23,7 +23,7 @@ Um bot feito para comentar em multiplas contas, Totalmente automatizado ele pode
 
 ## ⚙️ Configuração
 
-Passo 1° - Instale um navegador de um dos drivers disponibilizados no projeto (chrome, opera, firefox)[geckodriver](https://github.com/mozilla/geckodriver).
+Passo 1° - Instale um navegador de um dos drivers disponibilizados no projeto (chrome, opera, firefox).
 observação: recomendado uso do firefox.
 
 Passo 2° - Troque o caminho do driver em seu arquivo main.py de acordo com o navegador instalado
